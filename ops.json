@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "a21d0246-8377-3ec7-a25a-c59d5484c1c8",
+    "name": "HackerGuruBondo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ff2fa548-8796-31c1-87b4-879256f74966",
+    "name": "hackergurubondo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "be38d070-f37b-3fd6-a476-8f3d46f406f6",
+    "name": "hackergurubondo\u0027",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
